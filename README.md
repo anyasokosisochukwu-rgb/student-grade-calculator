@@ -28,7 +28,6 @@ This application calculates student grades from assessment scores. It computes t
 3. No special software or installation needed! ✅
 
 ## 💡 Important Note
-- **Node.js is NOT required.** This is a frontend web application.
 - It runs directly in any web browser.
 - JavaScript must be enabled in your browser.
 

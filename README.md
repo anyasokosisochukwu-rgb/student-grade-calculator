@@ -62,7 +62,7 @@ The app uses the following grading scale to assign letter grades and determine p
 ## 🚀 How to Access & Run the Project
 
 ### ✅ Method 1: Open Directly (Recommended — NO installation needed)
-1. Go to my GitHub repository: **[👉 PASTE YOUR FULL GITHUB REPO LINK HERE]**
+1. Go to my GitHub repository: **[https://github.com/anyasokosisochukwu-rgb/student-grade-calculator]**
 2. Download all files into **ONE folder** on your device:
    - `index.html`
    - `app.js`
@@ -131,6 +131,8 @@ This project contains only 3 simple files:
 
 ## 👤 Author
 **[ANYASO KOSISOCHUKWU DANIEL]**
+**[REG NO: 2023030210031]**
+**[GROUP 16]**
 - GitHub: **[https://github.com/anyasokosisochukwu-rgb/student-grade-calculator]**
 
 

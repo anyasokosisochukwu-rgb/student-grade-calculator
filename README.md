@@ -48,6 +48,15 @@ The app uses the following grading scale to assign letter grades and determine p
 > **✅ Passing Condition:** Average score of **50 or above** = Pass
 > **❌ Failing Condition:** Average score **below 50** = Fail
 
+### ✅ Example
+> **Name:** DANIEL 
+> **Scores:** 75, 62, 88
+>
+> **Result:**
+> - Total Score: 225
+> - Average Score: 75
+> - Letter Grade: C
+> - Status: ✅ Pass
 ---
 
 ## 🚀 How to Access & Run the Project
@@ -68,7 +77,6 @@ The app uses the following grading scale to assign letter grades and determine p
 4. Open `index.html` in any browser
 
 ### ⚠️ Important Note
-- **Node.js is NOT required.** This is a frontend web application.
 - Works on any device: Phone, Laptop, Desktop
 - Works on any browser: Chrome, Firefox, Safari, Edge, etc.
 - JavaScript must be enabled in your browser (it is ON by default)
@@ -90,6 +98,18 @@ The app uses the following grading scale to assign letter grades and determine p
 ---
 
 ## 📂 Project Structure
+
+This project contains only 3 simple files:
+
+| File Name | Purpose |
+|---|---|
+| `index.html` | Main page — contains the form to enter student details and display results |
+| `app.js` | Application brain — handles calculations, grade assignment, validation and saving records |
+| `README.md` | Project documentation — description, grading system, how to run and use the app |
+
+> All files must be kept in the **same folder** for the app to work properly.
+
+
 
 
 ---
@@ -113,14 +133,5 @@ The app uses the following grading scale to assign letter grades and determine p
 **[ANYASO KOSISOCHUKWU DANIEL]**
 - GitHub: **[https://github.com/anyasokosisochukwu-rgb/student-grade-calculator]**
 
----
 
-### ✅ Example
-> **Name:** DANIEL 
-> **Scores:** 75, 62, 88
->
-> **Result:**
-> - Total Score: 225
-> - Average Score: 75
-> - Letter Grade: C
-> - Status: ✅ Pass
+
